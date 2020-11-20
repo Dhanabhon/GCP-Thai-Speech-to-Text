@@ -1,0 +1,4 @@
+google-cloud-speech
+librosa
+python-Levenshtein
+google-cloud-storage
